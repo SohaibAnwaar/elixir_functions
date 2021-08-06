@@ -31,3 +31,10 @@ I would like to invite everyone to push their code inside this git togeather we 
 7. Push changes to your branch ``` git push origin sets```
 8. Congratulations your branch is pushed to the github repo
 9. Now open github, Go to the repo you can see your branch their, Now just create a merge request by GUI
+
+# Credits
+
+1. [InvoZone](https://invozone.com/) Team
+
+# License 
+* Open Source
